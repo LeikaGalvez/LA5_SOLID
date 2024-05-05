@@ -59,3 +59,5 @@ public class OrderTest {
 ```
 #
 # UML Diagram
+![LA5_SOLID_UML_Diagram](https://github.com/LeikaGalvez/LA5_SOLID/assets/142652629/15926801-3a5c-483f-b56c-06f63451f0d1)
+
